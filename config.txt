@@ -1,8 +1,8 @@
-sourceOrg=CR1
-destinationOrg=PB1
+sourceOrg=mayne-live
+destinationOrg=mayne-live
 package.xmlLocationToDeploy=metadata\package.xml
 folderLocationForFetchedZip=metadata
-waitTimeInMinutes=10
 testLevel=RunSpecifiedTests
-runTests=TemperatureConverterTest,LeadProcessorTest
+runTests=hren
+waitTimeInMinutes=10
 folderLocationToUndeploy=metadata\destructive
